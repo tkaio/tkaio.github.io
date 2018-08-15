@@ -1,0 +1,7 @@
+Package: com.sirify.package
+Name: sirify
+Description: Say Spotify, Siri.
+Maintainer: TMKaio
+Version: 0.1a
+Depends: com.hackyouriphone.assistantplus
+Architecture: iphoneos-arm
